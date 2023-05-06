@@ -14,7 +14,7 @@ font-family: 'Raleway', sans-serif;
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
-line-height:  1.17px;
+line-height: 1.17px;
 display: flex;
 flex-direction: row;
 align-items: center;
@@ -23,6 +23,13 @@ letter-spacing: 0.03em;
 color: #4d5ae5; 
 text-transform: uppercase;
 }
+
+
+.logo-part{
+   color:#2e2f42; 
+}
+
+
 
 .list{
     list-style: none;
