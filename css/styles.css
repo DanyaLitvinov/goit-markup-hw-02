@@ -36,6 +36,11 @@ text-transform: uppercase;
 }
 
 
+.menu-item :hover, :focus{
+color: #404bbf;
+}
+
+
 .menu-link{
 font-family: 'Roboto', sans-serif;
 font-style: normal;
@@ -47,7 +52,7 @@ color: #2E2F42;
 }
 
 
-.header-mail ,.header-phone{
+.header-mail, .header-phone{
 font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 400;
