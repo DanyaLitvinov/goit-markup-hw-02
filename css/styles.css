@@ -57,7 +57,7 @@ color: #2E2F42;
 }
 
 
-.header-mail, .header-phone{
+.header-link{
 font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 400;
@@ -68,21 +68,8 @@ color: #434455;
 }
 
 
-.header-mail :hover{
-    color: #404bbf;
-}
 
-.header-mail :focus{
-    color: #404bbf;
-}
 
-.header-phone :focus{
-    color: #404bbf;
-}
-
-.header-phone :hover{
-    color: #404bbf;
-}
 
 
 
