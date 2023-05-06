@@ -36,9 +36,14 @@ text-transform: uppercase;
 }
 
 
-.menu-item :hover, :focus{
+.menu-item :hover{
 color: #404bbf;
 }
+
+
+.menu-item :focus{
+    color: #404bbf;
+    }
 
 
 .menu-link{
