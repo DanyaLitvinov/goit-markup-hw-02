@@ -35,6 +35,10 @@ text-transform: uppercase;
     list-style: none;
 }
 
+.main-address{
+font-style: normal;
+}
+
 
 .menu-item :hover{
 color: #404bbf;
