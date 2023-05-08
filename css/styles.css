@@ -208,3 +208,27 @@ letter-spacing: 0.02em;
 .list-item{
     background-color: #FFFFFF;
 }
+
+
+.footer-sec{
+    background-color: #2E2F42;
+}
+
+
+.footer-desc{
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #F4F4FD;
+}
+
+
+.logo-part-footer{
+    color: #FFFFFF;
+}
+
+
+
