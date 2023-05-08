@@ -72,13 +72,6 @@ color: #434455;
 }
 
 
-
-
-
-
-
-
-
 .main-page-hero{
 font-family: 'Roboto', sans-serif;
 font-style: normal;
@@ -87,7 +80,8 @@ font-size: 56px;
 line-height: 60px;
 text-align: center;
 letter-spacing: 0.02em;
-/* color: #FFFFFF; */
+line-height: 1.07;
+color: #ffffff
 }
 
 
@@ -99,13 +93,14 @@ font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
-line-height: 24px;
+line-height: 1.5;
 display: flex;
 align-items: center;
 letter-spacing: 0.04em;
 color: #FFFFFF;
 padding: 16px 32px;
 gap: 10px;
+cursor: pointer;
 }
 
 
@@ -159,4 +154,18 @@ width: 360px;
 height: 300px;
 left: 540px;
 top: 1128px;
+}
+
+
+.sec-main{
+    background-color: #2e2f42;
+}
+
+
+.modal-btn :hover{
+    background-color: #404BBF
+}
+
+.modal-btn :focus{
+    background-color: #404BBF
 }
