@@ -138,20 +138,12 @@ color: #2E2F42;
 
 
 .section-pic{
-position: absolute;
-width: 360px;
-height: 300px;
-left: 156px;
-top: 1128px;
+
 }
 
 
 .section-img{
-position: absolute;
-width: 360px;
-height: 300px;
-left: 540px;
-top: 1128px;
+
 }
 
 
@@ -227,7 +219,7 @@ color: #F4F4FD;
 
 
 .logo-part-footer{
-    color: #FFFFFF;
+    color: #f4f4fd;
 }
 
 
