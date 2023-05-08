@@ -161,10 +161,10 @@ top: 1128px;
 
 
 .modal-btn :hover{
-    color: #404BBF
+    background-color: #404BBF;
 }
 
 .modal-btn :focus{
-    background-color: #404BBF
+    background-color: #404BBF;
 }
 
