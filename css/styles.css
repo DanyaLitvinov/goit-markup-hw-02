@@ -171,10 +171,34 @@ top: 1128px;
 
 .team-sec{
     background-color: #F4F4FD;
+}
+
+
+.team-tittle{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color:#2e2f42;
+}
+
+
+.team-subTittle{
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.02em;
+}
+
+
+.team-description{
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
 }
