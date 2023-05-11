@@ -237,6 +237,12 @@ color: #F4F4FD;
 }
 
 
+.sec-button :hover{
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
+
+
 .footer-text{
     color: #F4F4FD;
 }
