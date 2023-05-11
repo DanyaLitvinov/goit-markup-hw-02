@@ -231,10 +231,15 @@ color: #F4F4FD;
 }
 
 
-.sec-button :focus, :hover{
+.sec-button:hover {
     color: #FFFFFF;
     background-color: #404BBF;
-}
+  }
+  
+  .sec-button:focus {
+    color: #FFFFFF;
+    background-color: #404BBF;
+  }
 
 
 
