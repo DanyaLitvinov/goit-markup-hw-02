@@ -231,9 +231,9 @@ color: #F4F4FD;
 }
 
 
-.sec-button :hover, :focus{
+.sec-button :focus{
     color: #FFFFFF;
-    background-color: #404BBF
+    background-color: #404BBF;
 }
 
 
